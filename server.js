@@ -52,4 +52,4 @@ const listener = app.listen(process.env.PORT, function() {
 });
 
 
-client.login('NTI4OTU0NTc2NDYwODQwOTYx.DxQgFQ.Sltvr1aeWKN4xXrP4ZvCEFKEZNk');
+client.login('NTI4OTU0NTc2NDYwODQwOTYx.DxQgFQ.Sltvr1aeWKN4xXrP4ZvCEFKEZNk'); // this token don't work anymore!
